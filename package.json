@@ -2,7 +2,7 @@
   "name": "contacts",
   "version": "1.0.0",
   "description": "",
-  "main": "accounts.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.13.3",
     "body-parser": "^1.14.1",
